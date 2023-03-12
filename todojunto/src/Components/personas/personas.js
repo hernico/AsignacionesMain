@@ -16,7 +16,6 @@ console.log('cambiando estado');
 this.setState (
 {
     age: this.state.age + 1
-    // company: "Honda";
 }
 )
 }
